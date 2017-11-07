@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <netty.verson>4.1.13.Final</netty.verson>
+        <netty.verson>4.1.16.Final</netty.verson>
         <bouncy.version>1.58</bouncy.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
